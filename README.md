@@ -1,6 +1,8 @@
 # Ravenous Trail
 
-**Can you get your party westward to safety... there may be Wendigos among you?**
+![Ravenous Trail Cover Art](assets/cover-art.jpg)
+
+**Can you get your party westward ?**
 
 A narrative, story-driven web game inspired by *The Oregon Trail* and the 1999 film *Ravenous*.
 
