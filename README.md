@@ -1,6 +1,6 @@
 # Ravenous Trail
 
-![Ravenous Trail Cover Art](assets/cover-art.jpg)
+![Ravenous Trail Cover Art](assets/cover-art.png)
 
 **Can you get your party westward ?**
 
